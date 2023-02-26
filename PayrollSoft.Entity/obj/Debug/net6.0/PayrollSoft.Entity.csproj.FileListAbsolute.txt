@@ -1,0 +1,12 @@
+F:\Projects\PayrollSoft\PayrollSoft.Entity\bin\Debug\net6.0\PayrollSoft.Entity.deps.json
+F:\Projects\PayrollSoft\PayrollSoft.Entity\bin\Debug\net6.0\PayrollSoft.Entity.dll
+F:\Projects\PayrollSoft\PayrollSoft.Entity\bin\Debug\net6.0\PayrollSoft.Entity.pdb
+F:\Projects\PayrollSoft\PayrollSoft.Entity\obj\Debug\net6.0\PayrollSoft.Entity.csproj.AssemblyReference.cache
+F:\Projects\PayrollSoft\PayrollSoft.Entity\obj\Debug\net6.0\PayrollSoft.Entity.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\PayrollSoft\PayrollSoft.Entity\obj\Debug\net6.0\PayrollSoft.Entity.AssemblyInfoInputs.cache
+F:\Projects\PayrollSoft\PayrollSoft.Entity\obj\Debug\net6.0\PayrollSoft.Entity.AssemblyInfo.cs
+F:\Projects\PayrollSoft\PayrollSoft.Entity\obj\Debug\net6.0\PayrollSoft.Entity.csproj.CoreCompileInputs.cache
+F:\Projects\PayrollSoft\PayrollSoft.Entity\obj\Debug\net6.0\PayrollSoft.Entity.dll
+F:\Projects\PayrollSoft\PayrollSoft.Entity\obj\Debug\net6.0\refint\PayrollSoft.Entity.dll
+F:\Projects\PayrollSoft\PayrollSoft.Entity\obj\Debug\net6.0\PayrollSoft.Entity.pdb
+F:\Projects\PayrollSoft\PayrollSoft.Entity\obj\Debug\net6.0\ref\PayrollSoft.Entity.dll
